@@ -12,7 +12,7 @@ This is a Landing Page which tells about the waether of different Locations
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://avirawat13.github.io/Weather-API/)
 
 ### Built with
 
