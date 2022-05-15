@@ -8,6 +8,7 @@ This is a Landing Page which tells about the waether of different Locations
 
 ### Screenshot
 
+<img src="Screenshot\2022-05-16.png" alt="Screen Shot of the Site">
 
 ### Links
 
