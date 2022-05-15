@@ -24,7 +24,7 @@ This is a Landing Page which tells about the waether of different Locations
 - [React](https://reactjs.org/) - JS library
 
  <h2>Authors</h2>
-  <li><a href="www.linkedin.com/in/avi-rawat">AviRawat</a>
+  <li><a href="https://www.linkedin.com/in/avi-rawat/">Avi Rawat</a>
  <h2>License</h2>
 This project is licensed under the MIT License.
   
