@@ -2,7 +2,6 @@
 
 This is a Landing Page which tells about the waether of different Locations
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
